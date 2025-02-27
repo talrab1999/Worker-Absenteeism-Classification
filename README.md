@@ -2,9 +2,13 @@
 This project builds a classification pipeline to predict the amount of time a worker will be absent from work based on their characteristics and the specifics of the missed work day. The target variable, TimeOff, has four categories:
 
 Low
+
 Medium
+
 High
+
 Very High
+
 The project leverages both deep learning (a neural network) and traditional machine learning approaches to address the classification task.
 
 ## Overview
